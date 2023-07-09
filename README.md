@@ -11,14 +11,14 @@ pytorch версия которого представлена [здесь](http
 <p align = 'center'>
 <img src = 'Images/ParisSunset.jpg' height = '250px'>
 <img src = 'Styles/6355687451.jpg' height = '250px'>
-<img src = 'Results/photo_2023-07-09_11-28-19.jpg' height = '250px'>
+<img src = 'Results/photo_2023-07-09_11-28-19.jpg' height = '500px'>
 </p>
 
 # Image Upscale
 
 <p align = 'center'>
 <img src = 'Images/derevya-les-doroga-obochina.jpg' height = '250px'>
-<img src = 'Results/photo_2023-07-09_11-28-19.jpg' height = '250px'>
+<img src = 'Results/photo_2023-07-09_19-55-20.jpg' height = '250px'>
 </p>
 
 # Начало работы с ботом 
