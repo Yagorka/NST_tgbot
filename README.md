@@ -6,7 +6,7 @@ pytorch версия которого представлена [здесь](http
 
 Для улучшения качества используется Real-ESRGAN pytorch версия которого представлена [здесь](https://github.com/ai-forever/Real-ESRGAN).
 
-# Style image
+# Style transfer
 
 <p align = 'center'>
 <img src = 'Images/ParisSunset.jpg' height = '250px'>
