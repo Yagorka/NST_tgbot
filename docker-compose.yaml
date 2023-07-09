@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+   web:
+       build: .
+       command: bash -c "python src/tests_bot.py && python src/app.py"
+       environment:
+           - TG_BOT_TOKEN=${TG_BOT_TOKEN}
+       ports:
+           - 8000:8000
+       image: yagorka/tg_bot_nst:latest
